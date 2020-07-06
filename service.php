@@ -48,9 +48,9 @@
 
             <form action="service.html" method="post">
                 <label for="fname">Imie:</label>
-                <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
+                <input type="text" id="fname" name="firstname" placeholder="Twoje imie.." required>
                 <label for="fname">E-mail:</label>
-                <input type="text" id="fname" name="e-mail" placeholder="Your e-mail.." required>
+                <input type="text" id="fname" name="e-mail" placeholder="Twój e-mail.." required>
                 <label for="fname">W czym możemy pomóc?</label></br>
                 <textarea name="comment" rows="5" cols="40" required></textarea><br>
                 <input type="submit">
@@ -59,8 +59,8 @@
 
         </div>
 
-       
-        <?php include 'partial/footer.php';?>
+
+        <?php include 'partial/footer.php'; ?>
 
     </main>
 
