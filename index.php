@@ -82,7 +82,7 @@
                     Aenean et dui bibendum, gravida augue id, viverra sem. Etiam viverra condimentum nisi dictum
                     lobortis.
                 </p>
-                <a href="service.html" class="about_us_BTN">Czytaj więcej!</a>
+                <a href="pricelist.php" class="about_us_BTN">Czytaj więcej!</a>
             </div>
 
         </div>
